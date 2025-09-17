@@ -20,9 +20,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![This is an image of my final painting!](<img src="blob:chrome-untrusted://media-app/bc963edc-9154-41e2-aed1-4c5a36412d9d" alt="Screenshot 2025-09-16 1.16.34 PM.png"/>)
-
-)
+![This is an image of my final painting!](image.png)
 
 ## Reflection
 
