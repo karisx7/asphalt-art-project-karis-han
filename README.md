@@ -20,7 +20,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![This is an image of my final painting!]blob:chrome-untrusted://media-app/933ac8c0-08ef-47af-bef7-e0501fa2bd03
+![This is an image of my final painting!](blob:chrome-untrusted://media-app/933ac8c0-08ef-47af-bef7-e0501fa2bd03)
 
 ## Reflection
 
