@@ -20,7 +20,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![This is an image of my final painting!](image.png)
+![This is an image of my final painting!](image-1.png)
 
 ## Reflection
 
